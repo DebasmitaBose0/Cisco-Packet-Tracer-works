@@ -1,11 +1,11 @@
-### 🌐 Cisco Packet Tracer Works
+## 🌐 Cisco Packet Tracer Works
 
 A curated collection of networking topologies and Packet Tracer simulations designed by Debasmita Bose.
 Dive in, explore, and learn the fundamentals of networking—hands-on! ⚡
 
 ---
 
-### 📁 Repository Contents
+## 📁 Repository Contents
 
 Here’s what each file represents:
 
@@ -22,7 +22,7 @@ Here’s what each file represents:
 
 ---
 
-### 🚀 Features in This Repository
+## 🚀 Features in This Repository
 ✔️ Multiple networking topologies
 ✔️ Clean Packet Tracer .pkt files
 ✔️ Beginner-friendly designs
@@ -31,7 +31,7 @@ Here’s what each file represents:
 
 ---
 
-### 🛠 How to Use
+## 🛠 How to Use
 
 📥 Download or clone the repo:
 
@@ -47,7 +47,7 @@ git clone https://github.com/DebasmitaBose0/Cisco-Packet-Tracer-works.git
 
 ---
 
-### 🎯 What You’ll Learn
+## 🎯 What You’ll Learn
 
 📚 Network topology fundamentals
 
@@ -61,7 +61,7 @@ git clone https://github.com/DebasmitaBose0/Cisco-Packet-Tracer-works.git
 
 ---
 
-### 💡 Tips
+## 💡 Tips
 
 🎨 Try customizing the networks: add routers, change IPs, configure subnets.
 
@@ -73,7 +73,7 @@ git clone https://github.com/DebasmitaBose0/Cisco-Packet-Tracer-works.git
 
 ---
 
-### 👩‍💻 Author
+## 👩‍💻 Author
 
 Debasmita Bose
 💙 Networking learner × tech enthusiast
